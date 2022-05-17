@@ -1,6 +1,6 @@
 ### Hi I'm Nadine 👋 
 - 🌱 Management Engineering Student at University of Waterloo 
-- 🌳 Current Software Engineering Intern at ecobee
+- 🌳 Current Software Engineer Intern at ecobee
 - 🥯 Previous Fullstack Developer Intern at Uptake
 - 🪑 Previous Data Scientist Intern at Wysdom.AI
 - 🪜 Continuously learning stuff!
